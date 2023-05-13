@@ -44,7 +44,7 @@ Step 9: Open ProcessSimulation.m and you can now run the program. This might tak
 You can now run the simulation again with a different Fundamental Diagram by changing the fundamentalDiagram variable to any of the following options:
 ["CustomOverall","CustomSensor1","CustomSensor2","Greenshields","TrafficFreeFlow","Underwood","Greenberg","Newell-Daganzo"]
 
-NOTE: The current as deposited in this repository is able to perform the above example simply by selected run provided the data is added to the path. No values need to be changed but above gives some steps if you wish to use your own.
+NOTE: The current as deposited in this repository is able to perform the above example simply by selected run, provided the data is added to the path. No values need to be changed but above gives some steps if you wish to use your own.
 
 ======================================================================================================================================
 Data:
