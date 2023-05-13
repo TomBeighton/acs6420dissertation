@@ -13,8 +13,8 @@ Folder: Data: #Folder containing all data needed for plotting of simulation
     1DayPenistoneStretch1.csv # 24 Hours of data from Penistone Road Stretch 1
     3WeeksPenistoneStretch2.csv # 3 Weeks of data from Penistone Road Stretch 1
   Folder: Penistone Road Stretch 2 
-    1DayPenistoneStretch1.csv # 24 Hours of data from Penistone Road Stretch 1
-    3WeeksPenistoneStretch2.csv # 3 Weeks of data from Penistone Road Stretch 1
+    1DayPenistoneStretch2.csv # 24 Hours of data from Penistone Road Stretch 2
+    3WeeksPenistoneStretch2.csv # 3 Weeks of data from Penistone Road Stretch 2
 Folder: General Solution Code
     simulation.m #Function containing the LWR Model General Solution and outputs Time-Distance-Density graph
     ExtractCSV.m #Function to extract input data from csv into Flow and Occupancy Data
